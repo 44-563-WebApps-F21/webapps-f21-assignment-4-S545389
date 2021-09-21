@@ -29,6 +29,10 @@
 }
 .CZARE{
     color:darkgreen;
+
+}
+.COUNT R{
+    color:rgb(119, 55, 204);  
 }
 table{
     border:1px solid black;
@@ -49,4 +53,9 @@ td{
     padding: 45px 30px 50px;
     text-align: left;
 }
-
+.name:hover{
+    text-shadow: 2px 4px 3px rgba(0, 0, 0, 0.822);
+    color:rgba(0, 255, 242, 0.884);
+    filter: blur(3px);
+    border: solid 2px rgb(233, 154, 154);
+}
