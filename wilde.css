@@ -40,11 +40,13 @@ th{
     color: black;
     border: 1px solid black;
     text-align: center;
+    padding: 45px 30px 50px;
     background-color:rgba(174, 97, 197, 0.61);
 }
 td{
     color:rgb(163, 106, 42);
     border: 1px solid black;
+    padding: 45px 30px 50px;
     text-align: left;
 }
 
