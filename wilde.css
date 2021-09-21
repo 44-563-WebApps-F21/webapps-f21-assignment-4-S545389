@@ -30,4 +30,21 @@
 .CZARE{
     color:darkgreen;
 }
+table{
+    border:1px solid black;
+    padding: 45px 30px 50px;
+    margin: 25px 50px 75px 100px;
+    width:50%;
+}
+th{
+    color: black;
+    border: 1px solid black;
+    text-align: center;
+    background-color:rgba(174, 97, 197, 0.61);
+}
+td{
+    color:rgb(163, 106, 42);
+    border: 1px solid black;
+    text-align: left;
+}
 
