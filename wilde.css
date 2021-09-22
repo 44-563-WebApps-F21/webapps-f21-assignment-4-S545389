@@ -54,7 +54,7 @@ td{
     text-align: left;
 }
 tr:nth-child(even) {
-    background-color: rgb(222, 135, 215);
+    background-color: rgb(231, 168, 226);
 }
 .name:hover{
     text-shadow: 2px 4px 3px rgba(0, 0, 0, 0.822);
